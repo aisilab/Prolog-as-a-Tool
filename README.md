@@ -1,3 +1,19 @@
+This repository holds the code for the paper [Training Language Models to Use Prolog as a Tool](https://arxiv.org/abs/2512.07407).
+
+Our cleaned GSMK8k Prolog dataset is available on [Huggingface](https://huggingface.co/datasets/niklasm222/gsm8k-prolog-prover).
+
+If you use the code or the dataset, please cite us via
+
+```bibtex
+@inproceedings{mellgren2026training,
+  title = {Training Language Models to Use Prolog as a Tool},
+  author={Niklas Mellgren and Peter Schneider-Kamp and Lukas Galke Poech},
+  booktitle={ACL 2026 Findings},
+  year={2026}
+}
+```
+
+
 ### **Abstract**
 Using Group Relative Policy Optimization (GRPO), this project fine-tunes Qwen2.5-3B-Instruct on a merged and cleaned version of `openai/gsm8k` and `Thomas-X-Yang/gsm8k-prolog`, resulting in the `niklasm222/gsm8k-prolog-prover` dataset.
 
