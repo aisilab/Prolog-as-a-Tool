@@ -7,9 +7,9 @@ If you use the code or the dataset, please cite us via
 ```bibtex
 @inproceedings{mellgren2026training,
   title = {Training Language Models to Use Prolog as a Tool},
-  author={Niklas Mellgren and Peter Schneider-Kamp and Lukas Galke Poech},
-  booktitle={ACL 2026 Findings},
-  year={2026}
+  author = {Niklas Mellgren and Peter Schneider-Kamp and Lukas Galke Poech},
+  booktitle = {ACL 2026 Findings},
+  year= {2026}
 }
 ```
 
